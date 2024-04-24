@@ -1,4 +1,4 @@
-# Monte Carlo Simulation
+# monte_carlo
 
 This project uses a Monte Carlo simulation to approximate the value of Pi.
 
