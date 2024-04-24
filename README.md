@@ -23,4 +23,7 @@ After making your selection and providing the necessary input, the simulation wi
 
 To build the project, use your preferred C++ compiler and include all `.cc` and `.hpp` files.
 
-`g++ main.cc ./src/*.cc -Ilibs/ -std=c++20`, alternatively, you can use `-std=c++23` flag.
+```bash
+g++ main.cc ./src/*.cc -Ilibs/ -std=c++20
+# alternatively, you can use -std=c++23 flag
+```
